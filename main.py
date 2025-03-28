@@ -33,4 +33,3 @@ if st.button("Generate Image"):
 
 # Add a footer
 st.markdown("---")
-st.markdown("Made by Arvin")
